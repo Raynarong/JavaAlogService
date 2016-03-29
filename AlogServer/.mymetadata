@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="AlogServer"
+  id="myeclipse.1431776870978"
+  context-root="/AlogServer"
+  j2ee-spec="5.0"
+  archive="AlogServer.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
